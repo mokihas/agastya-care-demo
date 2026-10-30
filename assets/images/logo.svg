@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 54" fill="none">
+  <!-- Minimalist Studio Medical Glyph -->
+  <g transform="translate(4, 5)">
+    <!-- Soft Sage Shield -->
+    <rect x="0" y="0" width="44" height="44" rx="12" fill="#F0F4F1" stroke="#E5E0D8" stroke-width="1.2"/>
+    
+    <!-- Deep Pine Teal Cross Line (Vertical) -->
+    <line x1="22" y1="12" x2="22" y2="32" stroke="#0C4E48" stroke-width="3.5" stroke-linecap="round"/>
+    
+    <!-- Deep Pine Teal Cross Line (Horizontal) -->
+    <line x1="12" y1="22" x2="32" y2="22" stroke="#0C4E48" stroke-width="3.5" stroke-linecap="round"/>
+    
+    <!-- Warm Terracotta Organic Accent Dot -->
+    <circle cx="28" cy="16" r="3.2" fill="#C85A32"/>
+  </g>
+  
+  <!-- Typography: Agastya Care -->
+  <text x="58" y="28" font-family="'DM Serif Display', Georgia, serif" font-size="22" fill="#14201F" letter-spacing="-0.02em">
+    Agastya<tspan fill="#0C4E48" font-style="italic">Care</tspan>
+  </text>
+  
+  <!-- Subtitle: Medical Center -->
+  <text x="59" y="42" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-size="9.5" font-weight="700" fill="#0C4E48" letter-spacing="0.14em">
+    MEDICAL CENTER
+  </text>
+</svg>
