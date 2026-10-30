@@ -6,6 +6,30 @@ Redesigned with a calm, confident, and human aesthetic reminiscent of high-end p
 
 ---
 
+## 🌐 Live Website & Links
+
+- **Live Demo on Vercel**: [https://agastya-care-demo.vercel.app](https://agastya-care-demo.vercel.app)
+- **GitHub Repository**: [https://github.com/mokihas/agastya-care-demo](https://github.com/mokihas/agastya-care-demo)
+- **Direct Vercel Import**: [Deploy on Vercel](https://vercel.com/new/import?s=https://github.com/mokihas/agastya-care-demo)
+
+---
+
+## 🔄 Automatic GitHub & Vercel Sync
+
+Any modification made in this directory automatically syncs to GitHub and deploys on Vercel:
+
+1. **Continuous Auto-Sync (Background)**:
+   Run the PowerShell auto-sync watcher:
+   ```powershell
+   .\auto-sync.ps1
+   ```
+   *Uses `FileSystemWatcher` with a 3-second debounce. Any file save immediately auto-commits and pushes to `origin main`.*
+
+2. **One-Click Manual Sync**:
+   Double-click `sync.bat` to instantly commit and push changes.
+
+---
+
 ## 🎨 Design Direction & Studio Improvements
 
 - **Palette**: Warm cream background (`#FAF8F4`), soft sage wash for alternate sections (`#F0F4F1`), deep pine teal anchor (`#0C4E48`), single warm terracotta accent (`#C85A32`) for CTAs only, and deep charcoal text (`#14201F`). Zero harsh white-on-white monotony, zero AI-style glowing blobs or purple/blue gradients.
