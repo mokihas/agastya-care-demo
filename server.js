@@ -29,7 +29,7 @@ function handler(req, res) {
     return;
   }
 
-  const parsedUrl = url.parse(req.url);
+  const parsedUrl = new URL(req.url, 'http://localhost');
   let pathname = decodeURIComponent(parsedUrl.pathname);
 
   // Normalize root path to index.html
