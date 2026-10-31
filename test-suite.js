@@ -41,8 +41,7 @@ console.log('================================================================\n'
 console.log('📁 Test 1: File Structure & Asset Integrity');
 const requiredFiles = [
   'index.html',
-  'server.js',
-  'package.json',
+  'local-dev-server.js',
   'assets/css/style.css',
   'assets/js/app.js',
   'assets/images/logo.svg',
