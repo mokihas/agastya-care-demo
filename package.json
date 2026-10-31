@@ -1,0 +1,12 @@
+{
+  "name": "agastya-care-demo",
+  "version": "1.0.0",
+  "description": "Modern, premium, responsive demo website for Agastya Care Medical Center in North Bongaigaon, Assam.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test-suite.js"
+  },
+  "author": "Digitaya (https://www.digitaya.com)",
+  "license": "ISC"
+}
