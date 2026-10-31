@@ -2,3 +2,4 @@ node_modules/
 screenshots/*.png
 .DS_Store
 Thumbs.db
+local-dev-server.js
