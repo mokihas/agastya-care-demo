@@ -67,7 +67,7 @@ Any modification made in this directory automatically syncs to GitHub and deploy
 ### Option 1: Zero-Dependency Node.js Server
 ```bash
 cd agastya-care-demo
-node local-dev-server.js
+node server.js
 ```
 Then visit `http://localhost:3000` in your web browser.
 
